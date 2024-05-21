@@ -20,18 +20,18 @@ Here are some ideas to get you started:
 - 📝 博客：[Blog](https://blog.franksteven.me/)
 - ⚡ 爱好：跑步，动漫，旅游
 
-## 技术栈
-### 后端
-Java、JavaWeb、MySQL、Git、Maven、Spring、MyBatis、MyBatis-Plus、SpringBoot、Spring Gateway、Redis、SpringCloud、RabbitMq、Nacos、Docker、分布式搜索、Elasticsearch、设计模式、JMeter压力测试、Nodejs、Nginx
+## 技术栈 👨‍💻
+### 后端 🔭
+Java♨、JavaWeb、MySQL、Git、Maven、Spring、MyBatis、MyBatis-Plus、SpringBoot、Spring Gateway、Redis、SpringCloud、RabbitMq、Nacos、Docker、分布式搜索、Elasticsearch、设计模式、JMeter压力测试、Nodejs、Nginx
 
-### 前端
+### 前端 💻
 HTML、CSS、JavaScript、Ajax、Vue2、Vue3、React18、TypeScript、Ant Design Pro
 
 ## 今年汇总 ✨
 
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=ypclove&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ypclove&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 
-## 语言和工具
+## 语言和工具 🛠
 <p align="left">
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
