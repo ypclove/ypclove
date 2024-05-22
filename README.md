@@ -22,20 +22,15 @@ Here are some ideas to get you started:
 
 ## 技术栈 👨‍💻
 ### 后端 🔭
-JavaWeb、Maven、Spring、MyBatis、MyBatis-Plus、SpringBoot、Spring Gateway、SpringCloud、RabbitMq、Nacos、Docker、分布式搜索、Elasticsearch、设计模式、JMeter压力测试、Nginx
-![](https://img.shields.io/badge/-Java-4C7491?style=flat-square&logo=java&logoColor=fff)
-![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
-![](https://img.shields.io/badge/-Spring-5FB832?style=flat-square&logo=Spring&logoColor=fff)
-![](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=fff)
-![](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=fff)
+Maven、MyBatis、MyBatis-Plus、SpringBoot、Spring Gateway、SpringCloud、RabbitMq、Nacos、Elasticsearch、设计模式、JMeter压力测试、Nginx
+<img alt="Java" src="https://img.shields.io/badge/-Java-1881C3?style=flat-square&logo=Java&logoColor=white" />
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 
 ### 前端 💻
-HTML、CSS、JavaScript、Ajax、Vue2、Vue3、React18、TypeScript、Ant Design Pro
+CSS、JavaScript、Ajax、Ant Design Pro
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-![](https://img.shields.io/badge/-Vue-4fc08d?style=flat-square&logo=Vue.js&logoColor=fff)
+
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
 <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
