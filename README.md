@@ -21,6 +21,14 @@ Here are some ideas to get you started:
 - ⚡ 爱好：跑步，动漫，旅游
 
 ## 技术栈 👨‍💻
+### 深度学习 🤖
+
+<p>
+  <img alt="Pytorch" src="https://img.shields.io/badge/-Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white" />
+  <img alt="Tensorflow" src="https://img.shields.io/badge/-Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white" />
+  <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white" />
+</p>
+
 ### 后端 🔭
 
 <p>
@@ -53,14 +61,6 @@ Here are some ideas to get you started:
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-</p>
-
-### 深度学习 🤖
-
-<p>
-  <img alt="Pytorch" src="https://img.shields.io/badge/-Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white" />
-  <img alt="Tensorflow" src="https://img.shields.io/badge/-Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white" />
-  <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white" />
 </p>
 
 ## 今年汇总 ✨
